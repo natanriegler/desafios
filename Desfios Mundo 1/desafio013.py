@@ -1,0 +1,5 @@
+print('='*15, 'DESAFIO 013', '='*15)
+s = float(input('Insira o salário de um funcionário: R$'))
+ns = s+(0.15*s)
+print('Seu novo salário será de R$', ns)
+print('='*43)

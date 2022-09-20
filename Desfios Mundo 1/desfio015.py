@@ -1,0 +1,6 @@
+print('='*15, 'DESAFIO 015', '='*15)
+km = float(input('Quantos Km foram percorridos?: '))
+dias = float(input('Quantos dias?: '))
+tot = (dias*60)+(km*0.15)
+print('Você pagará {}'.format(tot))
+print('='*43)

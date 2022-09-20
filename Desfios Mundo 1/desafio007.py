@@ -1,0 +1,6 @@
+print('='*15, 'DESAFIO 007', '='*15)
+n1 = int(input('Digte a primeira nota: '))
+n2 = int(input('Digite a segunda nota: '))
+m = float((n1+n2)/2)
+print('A média foi {}'.format(m))
+print('='*43)

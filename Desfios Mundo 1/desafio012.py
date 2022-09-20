@@ -1,0 +1,5 @@
+print('='*15, 'DESAFIO 012', '='*15)
+p = float(input('Insira o preço do produto: '))
+np = p-(0.05*p)
+print('Com desconto de 5% fica: ', np)
+print('='*43)
